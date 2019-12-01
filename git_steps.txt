@@ -1,0 +1,9 @@
+1. git init: initializes the folder as git repository
+2. git add . : add all files for the commit
+3. git commit -m "" : make a local commit. i.e. the changes made are saved on the local PC (NOT ON REMOTE)
+
+
+To link the local git repo with a repo on github:
+4. git remote add origin url (only one time)
+5. git push origin master
+Then enter the github username and password. That's it 
