@@ -7,3 +7,6 @@ To link the local git repo with a repo on github:
 4. git remote add origin url (only one time)
 5. git push origin master
 Then enter the github username and password. That's it 
+
+'remote' refers to the gitHUB repository
+'master' is the branch name on which you are working.
